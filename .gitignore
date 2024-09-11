@@ -1,0 +1,58 @@
+# Virtual environment
+venv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.sublime-workspace
+*.sublime-project
+*.coverage
+*.tox
+*.nox
+*.pytest_cache/
+.coverage.*
+*.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.db
+*.sqlite
+
+lib
+lib64
+bin
+datasets
