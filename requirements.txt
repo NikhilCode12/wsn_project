@@ -5,3 +5,4 @@ metric-learn
 seaborn
 pandas
 acopy
+plotly
